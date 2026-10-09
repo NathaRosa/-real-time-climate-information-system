@@ -40,3 +40,4 @@ Projeto desenvolvido para praticar conceitos fundamentais de Java, especialmente
 O projeto também serve como base para futuras melhorias relacionadas à geração de senhas e conceitos de segurança da informação.
 >>>>>>> afd4acf0ddb3f6e571b35736d1799e9f9dcbfcb1
 # -real-time-climate-information-system
+# -real-time-climate-information-system
