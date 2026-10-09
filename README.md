@@ -41,3 +41,4 @@ O projeto também serve como base para futuras melhorias relacionadas à geraç�
 >>>>>>> afd4acf0ddb3f6e571b35736d1799e9f9dcbfcb1
 # -real-time-climate-information-system
 # -real-time-climate-information-system
+# -real-time-climate-information-system
